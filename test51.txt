@@ -1,0 +1,11 @@
+4
+abcd
+a
+a,c
+a,b
+c,b
+c,d
+b,d
+d,b
+b,a
+**

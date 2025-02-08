@@ -1,0 +1,12 @@
+5
+ABCDE
+E
+A,D
+A,C
+A,E
+C,D
+C,B
+B,D
+D,B
+E,B
+E,A
